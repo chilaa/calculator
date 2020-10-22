@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_button_text_size">30sp</dimen>
+    <dimen name="app_input_text_size">20sp</dimen>
+    <dimen name="app_title_text_size">40sp</dimen>
+<!--    <dimen name="app_input_hint_size">30sp</dimen>-->
+</resources>

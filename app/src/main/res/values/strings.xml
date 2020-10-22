@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">calculator</string>
+    <string name="app_title">Simple Calculator</string>
+    <string name="app_hint_text_1">Number 1</string>
+    <string name="app_hint_text_2">Number 2</string>
+    <string name="app_button_text_plus">+</string>
+    <string name="app_button_text_minus">-</string>
+    <string name="app_button_text_divide">/</string>
+    <string name="app_button_text_multiply">*</string>
+    <string name="app_enter_number">Please enter both numbers</string>
 </resources>
